@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 "# desktopCleaner" 
 =======
 # desktop cleaner
